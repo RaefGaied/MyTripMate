@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTripMate</string>
+    <string name="lato_black" />
+
+    <string name="place_image_desc">Image du lieu touristique</string>
+    <string name="favorite_button_desc">Basculer favori</string>
+    <string name="add_trip">Add a Trip</string>
+</resources>

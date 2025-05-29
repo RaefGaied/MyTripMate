@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.MyTripMate" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/material_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/material_surface</item>
+        <item name="colorOnSurface">@color/black</item>
+    </style>
+
+    <style name="Theme.MyTripMate" parent="Base.Theme.MyTripMate" />
+</resources>
